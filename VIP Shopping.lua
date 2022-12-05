@@ -1,6 +1,6 @@
 --*Pre-Conditions:*
-    --	/User should be logged in the page as an Admin/
-VIP Shopping
+    --	/User should be logged in the page as an Admin/ 1234
+    VIP Shopping
     --*Pre-Conditions:*
         --	/Should have at least one offer in the list with links/
     --Click the "VIP Shopping" button in the navigation bar (on the left)
@@ -225,7 +225,7 @@ Add Link
         Should show a label below the text field saying "URL is required"
     --Type in a valid url in the "COURSE URL" text field
         Removes all the labels and shows the url you've entered
-    -- *{YellowGreen}////////////////////*
+    --*{YellowGreen}////////////////////*
     
     --Click the Link Type (Text Link) dropdown
         Shows options
